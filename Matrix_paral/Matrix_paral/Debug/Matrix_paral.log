@@ -1,0 +1,3 @@
+﻿  Matrix_paral.cpp
+C:\Users\1qazw\source\repos\Matrix_paral\Matrix_paral\Matrix_paral.cpp(58,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Matrix_paral.vcxproj -> C:\Users\1qazw\source\repos\Matrix_paral\Debug\Matrix_paral.exe
